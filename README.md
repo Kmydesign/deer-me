@@ -18,3 +18,6 @@ Everything added in this project is daily coding.
 
 - Created new practice branch
 - Changing information to commit and merge branches
+- Merged branch successfully
+- Deleted local branch succesfully
+- Deleted remove branch succesfull
