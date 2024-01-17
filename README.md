@@ -19,10 +19,13 @@ Everything added in this project is daily coding.
 - Created new practice branch
 - Changing information to commit and merge branches
 - Merged branch successfully
-- Deleted local branch succesfully
-- Deleted remove branch succesfull
+- Deleted local branch successfully
+- Deleted remote branch successfully
 
 ### 16-01-2024
 
 - Created new practice branch (with help of cheat sheet)
 - changing information to commit and merge branches
+- Merged branch succesfully
+- Git branch -d <branch-name> | Deleted branch successfully
+- Git push origin -d <branch-name> | Deleted remote branch successfully
