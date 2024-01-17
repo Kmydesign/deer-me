@@ -21,3 +21,8 @@ Everything added in this project is daily coding.
 - Merged branch successfully
 - Deleted local branch succesfully
 - Deleted remove branch succesfull
+
+### 16-01-2024
+
+- Created new practice branch (with help of cheat sheet)
+- changing information to commit and merge branches
