@@ -1,0 +1,23 @@
+body {
+    background-color: #292640;
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#cat-gif {
+    width: 200px;
+    height: auto;
+    padding-right: 20px;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #9c9fdd;
+}
+.github-icon {
+    width: 35px;
+    height: auto;
+    padding: 30px;
+}
