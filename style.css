@@ -8,6 +8,7 @@ body {
     width: 200px;
     height: auto;
     padding-right: 20px;
+
 }
 
 .container {
@@ -16,8 +17,32 @@ body {
     padding: 10px;
     border: 1px solid #9c9fdd;
 }
-.github-icon {
+.btn-container{
+    padding: 15px;
+    display: inline-block;
+    
+}
+
+.btn {
+    background-color: #d4d9f1;
+    padding: 10px;
+    border-style:none;
+    border-radius: 4px;
+}
+
+.github {
     width: 35px;
     height: auto;
     padding: 30px;
+}
+
+.message-container {
+    background-color: #f2f4fb;
+    color: black; 
+    padding: 10px;
+    margin-top: 10px; 
+    border-radius: 4px;
+    border: 1px solid #9c9fdd;
+    width: 50%;
+    margin: auto;
 }
