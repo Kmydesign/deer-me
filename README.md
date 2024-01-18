@@ -7,7 +7,7 @@ Everything added in this project is daily coding.
 
 ## Let's do it!
 
-<details>
+<details open>
 
 ### 14-01-2024
 ---
@@ -20,7 +20,7 @@ Everything added in this project is daily coding.
 - add, commit, status, log in git
 - Added multiple files using {brace expansion} cannot do {01..05} because of version.
 </details>
-<details>
+<details open>
 
 ### 15-01-2024
 ---
@@ -44,7 +44,7 @@ Everything added in this project is daily coding.
 - Git branch -d <branch-name> | Deleted branch successfully
 - Git push origin -d <branch-name> | Deleted remote branch successfully
 </details>
-<details>
+<details open>
 
 ### 17-01-2024
 ---
