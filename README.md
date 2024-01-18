@@ -32,7 +32,7 @@ Everything added in this project is daily coding.
 - Git branch -d <branch-name> | Deleted branch successfully
 - Git push origin -d <branch-name> | Deleted remote branch successfully
 
-### 16-01-2024
+### 17-01-2024
 
 - Created new practice branch with git branch practice & git checkout practice
 - Changing information in readme as proof of branch creation
