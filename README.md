@@ -32,7 +32,7 @@ Everything added in this project is daily coding.
 - Deleted local branch successfully
 - Deleted remote branch successfully
 </details>
-<details>
+<details open>
 
 ### 16-01-2024
 ---
