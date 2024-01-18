@@ -1,5 +1,7 @@
 # deer-me
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 This project is for practice purposes only.
 Everything added in this project is daily coding.
 
@@ -26,7 +28,7 @@ Everything added in this project is daily coding.
 
 - Created new practice branch (with help of cheat sheet)
 - changing information to commit and merge branches
-- Merged branch succesfully
+- Merged branch successfully
 - Git branch -d <branch-name> | Deleted branch successfully
 - Git push origin -d <branch-name> | Deleted remote branch successfully
 
@@ -36,3 +38,7 @@ Everything added in this project is daily coding.
 - Changing information in readme as proof of branch creation
 - Creating html page + css page
 - Having issues moving files from downloads to proper director (look into & practice)
+- Merged branch successfully
+- Git brand -d <branc-name> | Deleted branch
+- Git push origin -d | Didn't work as I didn't push de branch? It wasn't able to deleted anything because it wasn't there...weird
+- Added cat gif to MD
