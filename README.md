@@ -53,6 +53,13 @@ Everything added in this project is daily coding.
 - Created new practice branch with git branch practice & git checkout practice
 - Changing information in readme as proof of branch creation
 - Creating html page + css page
+    - Changes done are :
+        - Used div and container classes
+        - used img tag
+        - Used border attributes in css to add style
+        - Used border attributes for buttons
+        - Added a github logo and resized it
+        - Added a question with buttons and an interactive answer box
 - Having issues moving files from downloads to proper director (look into & practice)
 - Merged branch successfully
 - Git brand -d <branc-name> | Deleted branch
