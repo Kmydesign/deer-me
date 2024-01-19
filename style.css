@@ -10,6 +10,23 @@ body {
     padding-right: 20px;
 
 }
+.nav-bar {
+    width: 100%;
+}
+
+ul,
+li {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 15px;
+  display: inline-block;
+  color: #9c9fdd;
+}
+
+a{
+    color:inherit;
+    text-decoration: none;
+}
 
 .container {
     width: 50%;

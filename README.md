@@ -66,3 +66,17 @@ Everything added in this project is daily coding.
 - Git push origin -d | Didn't work as I didn't push de branch? It wasn't able to deleted anything because it wasn't there...weird
 - Added cat gif to MD
 </details>
+
+<details open>
+
+### 18-01-2024
+---
+<summary>What I did</summary>
+
+- Created new practice branch with git branch practice & git checkout practice
+- Changing information in readme as proof of branch creation
+- Added navbar
+    - Played around with css more
+    - Learned about text-decorations
+    - Practice display more... still confusing
+</details>
