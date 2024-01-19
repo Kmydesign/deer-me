@@ -81,9 +81,9 @@ Everything added in this project is daily coding.
     - Practice display more... still confusing
     - Merged branches successfully
     - Can say switching between branches & creating new branches is easier
-    - git branch -d <branchname> | Deleted branch locally successfully
-    - Git push origin -d <branchname> | Deleted remote branch successfully
-    - Did not attempt to move files today
-    - Tried reverting? (not the right word) a local commit
-        -Unstaged files and deleted them as they weren't necessary
+- git branch -d <branchname> | Deleted branch locally successfully
+- Git push origin -d <branchname> | Deleted remote branch successfully
+- Did not attempt to move files today
+- Tried reverting? (not the right word) a local commit
+    -Unstaged files and deleted them as they weren't necessary
 </details>
