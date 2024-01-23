@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const yesBtn = document.getElementById('yesBtn');
     const noBtn = document.getElementById('noBtn');
-    const placeholderDiv = document.getElementById('placeholderDiv'); // Replace 'placeholderDiv' with the actual ID of the placeholder div
+    const placeholderDiv = document.getElementById('placeholderDiv'); 
 
     function handleButtonClick(answer) {
         // Remove existing message containers

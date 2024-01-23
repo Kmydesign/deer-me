@@ -87,3 +87,12 @@ Everything added in this project is daily coding.
 - Tried reverting? (not the right word) a local commit
     -Unstaged files and deleted them as they weren't necessary
 </details>
+
+### 22-01-2024
+---
+<summary>What I did</summary>
+
+- Created new practice branch with git branch practice & git checkout practice
+- Changing information in readme as proof of branch creation
+- Practicing other git commands for muscle memory
+</details>
